@@ -1,6 +1,6 @@
 # first-repo
 Just a basic repository
 
-Divya sri
+Divya sri Boppudi
 
 Knowledge is divine
